@@ -1,0 +1,6 @@
+# Ignore the logs directory
+Notes/
+
+
+
+
