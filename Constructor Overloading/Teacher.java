@@ -4,6 +4,7 @@ public class Teacher {
     String name, gender;
     int phone;
 
+    //Constructor Overloading
     Teacher() {
         System.out.println("No information");
     }
