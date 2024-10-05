@@ -15,7 +15,7 @@ public class B extends A {
         super.display();
         System.out.println(super.x);
 
-        System.out.print("Inside he sub class ");
+        System.out.print("Inside the sub class ");
         System.out.println(x);
     }
 }
